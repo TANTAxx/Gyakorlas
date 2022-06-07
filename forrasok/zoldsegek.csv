@@ -1,0 +1,85 @@
+Sorszám;Megnevezés;Fehérje(g);Zsír(g);Szénhidrát(g);Kalória(kcal)
+0;Avokádó;2;15;9;160
+1;Bab (fagyasztott, előfőzött);9.8;0.5;28;160
+2;Bab (fagyasztott);10.8;0.4;29;167
+3;Bab (száraz);22.3;1;57.9;338
+4;Babkonzerv;11;0.5;27;156.5
+5;Brokkoli;3.3;0.2;2.1;23.4
+6;Brokkoli (fagyasztott);4;0.4;2;29
+7;Burgonya, nyári;2.5;0.2;18.4;88
+8;Burgonya, téli;2.5;0.2;20;92
+9;Burgonyakocka (fagyasztott);1.9;0.1;14.7;69
+10;Burgonyapüré por;8.4;0.7;80;369
+11;Cékla;1.3;0.1;5.9;31
+12;Ceruzabab (fagyasztott);2.5;0.1;4.8;31
+13;Csemegeuborka;0.6;0.1;2.6;59
+14;Csiperkegomba;5.9;0.2;3.3;38.6
+15;Csiperkegomba (szeletelt, fagyasztott);2.3;0.1;1.4;16
+16;Cukkini;1.5;0.4;5.3;30
+17;Cukkini (fagyasztott);1.3;0.1;1.4;12
+18;Cukorborsó (fagyasztott);3.6;0.1;6.2;41
+19;Fejes saláta;1.4;0.3;2;17
+20;Fokhagyma;6.8;0.1;26.3;137
+21;Gyöngyhagyma;1.2;0.1;8.3;39
+22;Káposzta;1.6;0.2;5.7;31
+23;Káposzta (savanyított);1.1;0.2;3.4;20
+24;Káposzta (vörös);1.7;0.2;5.7;32
+25;Karalábé;2.1;0.2;6.9;39
+26;Karalábé (fagyasztott);1.7;0.2;4.6;27
+27;Karfiol;2.4;0.4;3.9;29
+28;Kelbimbó;4.9;0.6;6.1;51
+29;Kelkáposzta;3.6;0.3;4.3;34
+30;Kínai kel;1.2;0.3;2;67
+31;Kovászos uborka;0.7;0.2;1.9;13
+32;Kukorica;4.7;1.6;23.6;131
+33;Kukorica (morzsolt, fagyasztott);6.7;0.4;17.1;102
+34;Laskagomba;1.9;0.7;6;39
+35;Laskagomba (fagyasztott);1.7;0.6;5.8;37
+36;Lencse;26;1;60;353
+37;Lilahagyma;1.2;0.1;8.3;39
+38;Olívabogyó;0.2;21.9;6.5;224
+39;Padlizsán;1.3;0.2;4.8;27
+40;Paprika;1.2;0.3;3;19.5
+41;Paprika (csípős, fagyasztott);2.1;0.7;9.3;54
+42;Paprika (piros, fagyasztott);1.4;0.2;5.4;30
+43;Paprika (sárga, fagyasztott);1.4;0.1;4.7;27
+44;Paprika (zöld, fagyasztott);1.4;0.1;4.2;24
+45;Paprika, pritamin;3.4;0.8;8.6;57
+46;Paradicsom;1;0.2;4;22
+47;Paradicsom (fagyasztott);1.1;0.3;3.7;23
+48;Paradicsom, sűrített;5;1;20;111
+49;Paradicsompüré;5;1;20;109
+50;Paraj (spenót, fagyasztott);2.6;0.2;2.5;97
+51;Paraj (spenót);2.3;0.3;1.8;20
+52;Petrezselyem gyökér;1.2;0.1;5.9;29
+53;Petrezselyem zöldje;4.4;0.4;9.8;62
+54;Póréhagyma;2.2;0.3;5.9;37
+55;Póréhagyma (fagyasztott);2.2;0.3;6.3;38
+56;Retek;1.2;0.1;2.2;15
+57;Sárgaborsó;21.7;1.5;53.1;321
+58;Sárgarépa;1.2;0.2;8.1;39
+59;Sárgarépa (fagyasztott);1.7;0.2;10.4;52
+60;Snidling;2.2;0.3;6.3;37
+61;Sóska;2.4;0.5;2.3;24
+62;Sóska (fagyasztott);1.5;0.2;0.4;10
+63;Spárga;2;0.1;1.8;17
+64;Sütőtök;1.5;0.6;16.5;80
+65;Szója (extrudált, teljes őrlemény);41.6;23.5;22.1;480
+66;Szója (granulátum, kocka);45;20.6;18.3;451
+67;Szójaliszt, (extrahált, zsírtalanított);47.3;0.6;33.4;336
+68;Tök;1.1;0.1;6.1;31
+69;Tök (gyalult, fagyasztott);0.8;0.1;2.9;16
+70;Uborka;1;0.1;1.7;12
+71;Újhagyma;2.2;0.3;6.3;37
+72;Vargánya;6.4;0.8;1.3;38
+73;Vargánya (szárított);38.3;1.8;31.5;303
+74;Vegyes savanyúság;0.8;0.1;2.4;14
+75;Vöröshagyma;1.2;0.1;8.3;39
+76;Vöröshagyma (fagyasztott);1.4;0.1;7.4;37
+77;Zellergumó;1.4;0.3;5;28
+78;Zöldbab;2.6;0.3;6.8;40.3
+79;Zöldbab (konzerv);1.6;0.2;4.3;26
+80;Zöldborsó;7;0.4;14;87.6
+81;Zöldborsó (fagyasztott);6.5;0.4;15;92
+82;Zöldborsó (zsenge, fagyasztott);5.7;0.4;12;77
+83;Zöldsaláta;1.4;0.3;2;16
