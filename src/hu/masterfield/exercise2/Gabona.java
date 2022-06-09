@@ -3,6 +3,7 @@ package hu.masterfield.exercise2;
 import hu.masterfield.exercise1.GabonakDataSource;
 
 import java.util.Arrays;
+// Jaava Objektumorientált programozás:
 
 public class Gabona implements Keresheto, Comparable {
     private int id;
@@ -73,6 +74,7 @@ public class Gabona implements Keresheto, Comparable {
     }
 
     @Override
+    ///* Gabona példánnyal visszatérő függvény. A példány mezői föltöltve az index alapján.*/
     public Gabona getGabona(int index) {
         String[] gabonaData = GabonakDataSource.getGabonak()[index];
         Gabona gabona = new Gabona(
@@ -87,6 +89,8 @@ public class Gabona implements Keresheto, Comparable {
     }
 
     @Override
+    ///*  Gabonák tömbjét képes visszaadni, amihez az excercise1.GabonakDataSource adatait használja föl.
+    //        A rendezés a Gabona osztály alapértelmezett rendezése szerint készüljön.*/
     public Gabona[] getGabonaList() {
         int gabonakLength = GabonakDataSource.getGabonak().length;
         Gabona[] gabonak = new Gabona[gabonakLength];
@@ -99,6 +103,7 @@ public class Gabona implements Keresheto, Comparable {
     }
 
     @Override
+    //Szénhidrát tartalom szerinti rendezéshez: készitsünk compareTo
     public int compareTo(Object o) {
         return (int) ((this.szenhidrat - ((Gabona) o).getSzenhidrat()) * 100);
     }

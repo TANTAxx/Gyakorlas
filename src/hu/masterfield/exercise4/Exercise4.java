@@ -34,7 +34,7 @@ public class Exercise4 {
     }
 
     public static void sortAndWriteFile(List<Zoldseg> zoldsegek) {
-        Collections.sort(zoldsegek);
+        Collections.sort(zoldsegek); // ezt a ZOLDSEG-osztályba compartoval rendezük kalória szerint!
         try (FileWriter writer = new FileWriter("forrasok/rendezett_zoldsegek.csv");
              PrintWriter pw = new PrintWriter(writer);) {
             pw.println("Sorszám;Megnevezés;Fehérje(g);Zsír(g);Szénhidrát(g);Kalória(kcal)");
